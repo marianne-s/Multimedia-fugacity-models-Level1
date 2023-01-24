@@ -1,2 +1,2 @@
-# Multimedia-fugacity-models
-Level 1 to 3 models for the Environmental Chemistry course
+# Multimedia-fugacity-models-Level1
+Level 1 model for the Environmental Chemistry course
