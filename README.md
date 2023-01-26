@@ -1,6 +1,6 @@
-# Multimedia-fugacity-models-Level2
+# Multimedia-fugacity-models-Level1
 Level 1 model for the Environmental Chemistry course.
 
-You can run it directly in https://mybinder.org/v2/gh/apraetorius/Multimedia-fugacity-models-forTeaching_Level2/HEAD </br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apraetorius/Multimedia-fugacity-models-forTeaching_Level2/HEAD)
+You can run it directly in https://github.com/marianne-s/Multimedia-fugacity-models-Level1/HEAD </br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/marianne-s/Multimedia-fugacity-models-Level1/HEAD)
 
