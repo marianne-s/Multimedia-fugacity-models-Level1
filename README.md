@@ -7,8 +7,8 @@ https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level1/HEAD </b
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level1/HEAD)
 </br></br>
 
-
-We will work with the following model:</br>
+## The model: 
+We will work with the following model:</br></br>
 ![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level1/blob/main/img/LEVEL1_Figure.png?raw=true)
 
 
