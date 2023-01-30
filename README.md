@@ -1,6 +1,7 @@
 # Multimedia-fugacity-models-Level1
 Level 1 model for the Environmental Chemistry course.
 
+## Jupyter immediat executable environment: 
 
 You can run it directly in: </br></br>
 https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level1/HEAD </br></br>
