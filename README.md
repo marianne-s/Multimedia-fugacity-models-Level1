@@ -1,5 +1,5 @@
 # Multimedia-fugacity-models-Level1
-Level 1 model for the Environmental Chemistry course.
+Level 1 model for the Environmental Chemistry course in the University of Amsterdam.
 
 A Level I simulation is designed to model, in a simple first step way, the repartition of a chemical component on different environmental medium. 
 
