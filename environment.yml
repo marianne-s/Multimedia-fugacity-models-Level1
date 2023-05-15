@@ -1,6 +1,5 @@
 name: Multimedia-fugacity-models-Level1
 channels:
-  - anaconda
   - conda-forge
 dependencies:
 - python=3.9
