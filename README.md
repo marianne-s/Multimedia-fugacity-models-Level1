@@ -20,6 +20,11 @@ https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level1/HEAD </b
 ## The model: 
 We will work with the following model:</br></br>
 ![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level1/blob/main/img/LEVEL1_Figure.png?raw=true)
+<br><br>
+
+## License:
+![image](https://github.com/marianne-s/Multimedia-fugacity-models-Level1/assets/77213195/1ade9aaa-2212-46fd-8e1d-560f9ab7e15c)
+ This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
 
 
 
