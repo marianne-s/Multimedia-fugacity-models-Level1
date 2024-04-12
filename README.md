@@ -1,5 +1,11 @@
 # Multimedia-fugacity-models-Level1
-Level 1 model for the Environmental Chemistry course at the University of Amsterdam.
+
+## The model: 
+We will work with the following Level1 model:</br></br>
+![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level1/blob/main/img/LEVEL1_Figure.png?raw=true)
+<br><br>
+
+## Multimedia-fugacity-models-Level1
 
 A Level I simulation is designed to model, in a simple first-step way, the repartition of a chemical component on different environmental mediums. 
 
@@ -17,8 +23,4 @@ https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level1/HEAD </b
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level1/HEAD)
 </br></br>
 
-## The model: 
-We will work with the following model:</br></br>
-![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level1/blob/main/img/LEVEL1_Figure.png?raw=true)
-<br><br>
 
